@@ -1,7 +1,7 @@
 # education
 
 Actors, on strike since July 14, are likewise seeking better compensation from streaming. But they are also demanding [safeguards against AI](https://apnews.com/article/hollywood-ai-strike-wga-artificial-intelligence-39ab72582c3a15f77510c9c30a45ffc8), which can potentially use a star’s likeness without his or her permission or replace background actors entirely.
-- Might teachers face similar existential concerns?
+- Might teachers face similar existential [concerns](https://github.com/abikesa/language/blob/main/README.md)?
 - Isn't all this acknowledgment of the power of AI?
 - What exactly are the ethics of copyright and patents?
 - Didn't pharmaceutics make exemptions of HIV/AIDS drugs?
