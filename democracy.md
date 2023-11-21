@@ -1,0 +1,2 @@
+- Satya Nadella
+  - AI [democratizes]() many things:: [7:30](https://www.youtube.com/watch?v=Ut9zcpOEGgc)/9:26
