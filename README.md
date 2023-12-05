@@ -34,7 +34,7 @@ Which brings us to the main issue:
    - Underlying hypothesis that truth is some constant; verb: to be
    - Alternative is that you never step in the same river twice
    - But really its the rates of change, $\frac{\partial y}{\partial x}$
-3. Ethics/Pouvoir/Hideth, $\Large \int_{Evil}^{Good} \partial x$
+3. [Ethics](https://www.iesalc.unesco.org/wp-content/uploads/2023/04/ChatGPT-and-Artificial-Intelligence-in-higher-education-Quick-Start-guide_EN_FINAL.pdf)/Pouvoir/Hideth, $\Large \int_{Evil}^{Good} \partial x$
    - Proverbs 27:12
    - Shepherd with rod & staff protecting lambs from wolves
    - Verb: to do
