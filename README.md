@@ -30,7 +30,7 @@ Which brings us to the main issue:
    - But within a hierarchical system these inputs are [selectively biased](https://www.nytimes.com/2023/10/18/us/harvard-students-israel-hamas-doxxing.html)
    - Time span, distribution of characteristics, estimates of incidents, measurement, censorship
      
-2. Knowledge/Savoir/Tameth, $\Large \int_{j}^{k} \partial y \partial x$
+2. [Knowledge](https://www.sciencedirect.com/science/article/pii/S266734522300024X)/Savoir/Tameth, $\Large \int_{j}^{k} \partial y \partial x$
    - Underlying hypothesis that truth is some constant; verb: to be
    - Alternative is that you never step in the same river twice
    - But really its the rates of change, $\frac{\partial y}{\partial x}$
