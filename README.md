@@ -15,6 +15,14 @@
    - Of course you'll need sufficiently large data or or estensive simulation or selfplay to achieve that
    - Isn't this a helpful way to gain insights into our childrens `education`
    - Regardless, their education is going to be limited compared with AGI
+   - Jensen Huang states that Ilya had the insight that GPU would be sufficient to train a neural network
+   - Thats how their paths crossed:
+      - 2002: Neuronetworks
+        - Useful construct with validity in human brain
+      - 2012: Alexnet
+        - Testing it with Jensens hardware
+      - 2022: ChatGPT
+        - Microsoft's Azure is the `compute` dimension of the picture
 4. Epistemology
    - How do children get to learn about the world they'll inhabit and shape?
    - Formal `education`
