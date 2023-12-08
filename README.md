@@ -30,8 +30,24 @@
 
    Which brings us to the main issue:
    - Truth?
-   - Knowledge?
+        - When viewed as just one dimension of the full picture it looses all its charm
+        - Is there any point in knowing one truth when there are 1 billion truths in the natural and physical world?
+        - Should we restrict oursleves to the truths that matter to us?>
+        - How are we to classify truths into useful and not without knowing them?
+        - You get the picture!
+   - $\text{Knowledge}=\alpha+\text{X}\beta+\epsilon$?
+        - $\alpha=\text{Truth}$
+        - $\text{X}\beta+\epsilon=\text{Error}$
+          - $\text{X}\beta=\text{Bias}$
+            - Known-Known
+          - $\epsilon=\text{Variance}$
+            - Known-Unknown
+            - Unknown-Unknown
    - Ethics?
+     - AI will increase all these moieties of knowledge
+     - Expentially so and already doing so
+     - Finding the wheat in the Chuff!
+     - That is education; more challenging than ever before
    - What is the purpose of education?
    - For settings with high student: teacher ratio AI serves an `empowering`, ethical end
 5. Ontology
