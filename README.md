@@ -7,8 +7,15 @@
 ```
 
 1. Metaphysical
-2. Identity
-3. Epistemology
+2. [Identity](https://www.youtube.com/watch?v=Ckz8XA2hW84)
+   - Does anyone know that AI is all about learning?
+   - All about machine learning?
+   - Machines do not have biologically constrained `neural networks`
+   - So if you have "unlimited" money to spend on "compute" you can build unlimited intelligence
+   - Of course you'll need sufficiently large data or or estensive simulation or selfplay to achieve that
+   - Isn't this a helpful way to gain insights into our childrens `education`
+   - Regardless, their education is going to be limited compared with AGI
+4. Epistemology
    - How do children get to learn about the world they'll inhabit and shape?
    - Formal `education`
    - And increasingly social media
