@@ -26,7 +26,7 @@
 4. Epistemology
    - How do children get to learn about the world they'll inhabit and shape?
    - Formal `education`
-   - And increasingly social media
+   - And increasingly [social media](https://www.economist.com/leaders/2017/11/04/do-social-media-threaten-democracy)
    - But AI is already dominating the quantity of information in social media
    - So its already here whether we like it or not
    - Segue: Actors, on strike since July 14, are likewise seeking better compensation from streaming. But they are also demanding [safeguards against AI](https://apnews.com/article/hollywood-ai-strike-wga-artificial-intelligence-39ab72582c3a15f77510c9c30a45ffc8), which can potentially use a star’s likeness without his or her permission or replace background actors entirely.
