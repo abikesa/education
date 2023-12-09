@@ -6,8 +6,10 @@
                                 4. Ontology
 ```
 
-1. Metaphysical
-2. [Identity](https://www.youtube.com/watch?v=Ckz8XA2hW84)
+1. [Metaphysical](https://www.youtube.com/watch?v=Gg-w_n9NJIE)
+   - Brain: inspiration
+   - Progress: we don't need it anymore
+3. [Identity](https://www.youtube.com/watch?v=Ckz8XA2hW84)
    - Does anyone know that AI is all about learning?
    - All about machine learning?
    - Machines do not have biologically constrained `neural networks`
