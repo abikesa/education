@@ -8,7 +8,9 @@
 
 1. [Metaphysical](https://www.youtube.com/watch?v=Gg-w_n9NJIE)
    - Brain: inspiration
-   - Progress: we don't need it anymore
+   - [Progress](https://github.com/abikesa/greeks/blob/main/README.md): we don't need it anymore
+      - Yuval Noah Harari says `we have no clue what to teach our kids anymore, since we have no clue what skills will be needed in 20y`
+      - This is perhaps the first time in history that its been the case!! 
 3. [Identity](https://www.youtube.com/watch?v=Ckz8XA2hW84)
    - Does anyone know that AI is all about learning?
    - All about machine learning?
