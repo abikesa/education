@@ -14,8 +14,8 @@ It is helpful to compare the learning process of artificial intellgience to the 
 
 ```{figure} https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEnQS7DcP7Eksp7Vj4R1tBykz3mcnQrKUr5g&s
 ---
-width: 500px
-height" 300px
+width: 100%
+height: 3`00px
 name: student note-taking
 alt: whatever...
 ---
@@ -41,8 +41,13 @@ This is a temporary placeholder
                          3. Encode
 
 #### 3.3.1 Happy-chances
+- Luck
+
 #### 3.3.2 [Myth-making](https://www.youtube.com/watch?v=TYAKHLrr51w)
+- AI or [Machine-Learning](https://www.youtube.com/watch?v=SVdTF4_QrTM)
+
 #### 3.3.3 Power-consolidation
+- Common Sense
 
 - [edu0](education/intro.ipynb)
 - [edu1](education/edu1.ipynb)
