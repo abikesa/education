@@ -15,11 +15,10 @@ It is helpful to compare the learning process of artificial intellgience to the 
 ```{figure} https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEnQS7DcP7Eksp7Vj4R1tBykz3mcnQrKUr5g&s
 ---
 width: 500px
-name: reproducibility-barriers
-alt: Slide from the presentation showing the different barriers to reproducibility. The text in the center says 'Barriers to reproducible research' and the following barriers are arranged clockwise around the slide - Is not considered for promotion, Held to a higher standard than others, Publication bias towards novel findings, Plead the 5th, Takes time, Support additional users, Requires additional skills.
+height" 300px
+name: student note-taking
+alt: whatever...
 ---
-A slide outlining some of the barriers to reproducible research from Kirstie Whitaker's [talk about _The Turing Way_](https://youtu.be/wZeoZaIV0VE?t=312) at [csv,conf,v4](https://csvconf.com/2019) in May 2019.
-Used under a CC-BY 4.0 license.
 This is a temporary placeholder
 ```
 
@@ -67,6 +66,6 @@ This is a temporary placeholder
 
                        1. Error: Outlier
                                         \
-           2. Compute: Bias-Variance -> 4. Latent-Space: Uncommunicable` -> 5. Decode:Hack -> 6. Represent: Success
+           2. Compute: Bias-Variance -> 4. Latent-Space: Uncommunicable -> 5. Decode: Hack -> 6. Represent: Success
                                         /
-                                        3. Mean
+                                        3. Mean: Average Infrastructure
