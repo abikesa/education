@@ -50,7 +50,7 @@ This is a temporary placeholder
 - Common Sense
 
 
-## [Digestion](https://www.gutenberg.org/cache/epub/52319/pg52319-images.html)
+## [Nutrition](https://www.gutenberg.org/cache/epub/52319/pg52319-images.html)
 - [edu0](education/intro.ipynb)
 - [edu1](education/edu1.ipynb)
 - [edu2](education/edu2.ipynb)
