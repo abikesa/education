@@ -1,74 +1,85 @@
 (rr-open)=
-# Open Research
+# Review
 
 (rr-open-prerequisites)=
-## Prerequisites
+## JAMA
 
-| Prerequisite | Importance | Notes |
-| -------------|----------|------|
-| {ref}`rr-vcs` | Helpful | Experience with GitHub is particularly useful |
+<iframe src="part2/251416_0.pdf" width="100%" height="600px" style="borders:none"></iframe>
 
+- [Main](part2/251416_0.pdf)
+- [Supplement](part2/251416_0_supp.pdf)
 
-```{figure} ../figures/evolution-open-research.*
----
-name: evolution-open-research-rr
-alt: This image shows a researcher evolving their research practices to move towards the era of open research. The image starts with the person looking anxious about engaging with open science, slowly they take a few steps, feel comfortable about sharing their work, and finally start to collaborate with others.
----
-_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
-```
+From: josie.sheehy@jamanetwork.org <josie.sheehy@jamanetwork.org>
+Date: Monday, July 8, 2024 at 12:10 PM
+To: Abimereki Muzaale <muzaale@jhmi.edu>
+Cc: muzaale@gmail.com <muzaale@gmail.com>
+Subject: JAMA24-5945 Review Instructions for JAMA
+July 8, 2024
 
-(rr-open-summary)=
-## Summary
+Dear Dr Muzaale:
 
-Open research aims to transform research by making it more reproducible, transparent, reusable, collaborative, accountable, and accessible to society. It pushes for change in the way that research is carried out and disseminated by digital tools. One definition of open research, [as given by the Organisation for Economic Co-operation and Development (OECD)](https://www.fct.pt/dsi/docs/Making_Open_Science_a_Reality.pdf "Making Open Science a Reality, OECD Science, Technology and Industry Policy Papers No. 25"), is the practice of making "the primary outputs of publicly funded research results – publications and the research data – publicly accessible in a digital format with no or minimal restriction." To achieve this openness in research, each element of the research process should:
+Thank you for agreeing to review the Original Investigation - Cohort Study, entitled "Increasing Equity in Kidney Transplantation: 
+Results of the Kidney Transplant Fast Track Study" by Dr Myaskovsky (MS #JAMA24-5945).
 
-- _Be publicly available_: It is difficult to use and benefit from knowledge hidden behind barriers such as passwords and paywalls.
-- _Be reusable_: Research outputs need to be licensed appropriately, so that prospective users know any limitations on re-use.
-- _Be transparent_: With appropriate metadata to provide clear statements of how research output was produced and what it contains.
+We are especially interested in your assessment of the originality and quality of the manuscript and the importance and suitability of the paper for the readership of the journal.
 
-Schematically, the research process has the following form: data are collected and then analysed (often using software). This process may involve the use of specialist hardware. The results of the research are then published. Throughout the process, it is good practice for researchers to document their work. This can happen in notebooks or other forms of documentation. For experimental studies, Electronic Lab Notebooks are common. Open research aims to make each of these elements open:
+Please complete your review by July 22, 2024. If you are unable to complete the review by this date, please contact me immediately via email. My contact information is provided below. 
 
-- _Open Data_: Documenting and sharing research data openly for re-use.
-- _Open Source Software_: Documenting research code and routines, and making them freely accessible and available.
-- _Open Hardware_: Documenting designs, materials, and other relevant information related to hardware, and making them freely accessible and available.
-- _Open Access_: Making all published outputs freely accessible for maximum use and impact.
-- _Open Notebooks_: An emerging practice, documenting and sharing the experimental process of trial and error.
+To view the manuscript and prepare your review, click on the link below. You will be required to enter your password. If you are unable to locate your password please click the "Unknown/Forgotten password" link.
 
-See the [Open Definition](https://opendefinition.org/) for a set of principles that define “openness” in relation to data and content. The above elements are expanded upon in this chapter.
+Please do not share this email with anyone.
 
-Open scholarship [{term}`def<Open Scholarship>`] is a concept that extends open research further. It relates to making other aspects of scientific research open to the public, for example:
+https://manuscripts.jama.com/cgi-bin/main.plex?el=A2e3Boyw7A3CFaE1F7A9ftddcFsFbuZ7sgACR2YypZ9sAZ 
 
-- _Open educational resources_: Making educational resources publicly available to be re-used and modified.
-- _Equity, diversity, inclusion_: Ensuring scholarship is open to anyone without barriers based on factors such as race, background, gender, and sexual orientation.
-- _Citizen science_: The inclusion of members of the public in scientific research.
+Note: The above URL may break between 2 lines in this email. If so, please cut/paste both lines into your web browser. There should be no spaces, and the complete URL ends with "Z". If you experience difficulty reaching the article, please contact me at the email or phone number below. 
 
-These elements are also discussed in detail in this chapter.
+If desired, you can save your review and complete it during multiple sessions. We recommend that you prepare your comments to the author offline using a word processing program and then copy and paste the comments into the appropriate text boxes on the online form. In addition, you may attach up to 3 documents that support your review comments. 
 
-(rr-open-useful)=
-## Motivation and Background
+Instructions to assist you in using the site are accessible from the site's top navigation bar. If you have additional questions, please contact our office by replying to this email message. 
 
-There are five main schools of thought motivating open practices to benefit research:
+SPECIFIC INSTRUCTIONS 
 
-| School                     | Belief               | Aim                                               |
-| -------------------------- | -------------------- | ------------------------------------------------- |
-| Infrastructure | Efficient research depends on the available tools and applications. | Creating openly available platforms, tools, and services for researchers. |
-| Pragmatic | Knowledge-creation could be more efficient if researchers worked together. | Opening up the process of knowledge creation. |
-| Measurement | Academic contributions today need alternative impact measurements. | Developing an alternative metric system for research impact. |
-| Democratic | The access to knowledge is unequally distributed. | Making knowledge freely available for everyone. |
-| Public | Research needs to be made accessible to the public. | Making research accessible for citizens. |
+CONFIDENTIALITY
+We consider this manuscript and your review of it to be strictly confidential. Any use or distribution of the confidential information in this manuscript for any reason beyond performing this review is prohibited. If you download any electronic files or print out copies, please delete and/or destroy these documents once you have completed your review. 
 
-Open practices also benefit the researchers that propagate them.
-For example, there is evidence {cite:ps}`McKiernan et al. 2016<McKiernan2016Open>` that open access articles are cited more often, as shown by the metastudy presented in the figure below.
+Entering any part of the manuscript or abstract or the text of your review into a chatbot, language model, or similar tool is a violation of our confidentiality agreement.
 
-```{figure} ../figures/open-access-citations.*
----
-height: 500px
-name: open-access-citations
-alt: A plot of the relative citation rate (OA divided by non-OA), in the x axis, for 19 different areas of knowledge, in the y axis. The areas of knowledge are organized from the highest to the lowest Relative Citation Rate in the following order - Agricultural Studies, Physics/Astronomy, Medicine, Computer Science, Sociology/Social Sciences, Psychology, Political Science, Management, Law, Economics, Mathematics, Health, Engineering, Philosophy, Education, Business, Communications Studies, Ecology, and Biology. The highest mean values are around 3.2 for Agricultural Studies, and the lowest are around 1.2 for Biology.
----
-The relative citation rate (OA: non-OA) in 19 fields of research. This rate is defined as the mean citation rate of OA articles divided by the mean citation rate of non-OA articles. Multiple points for the same discipline indicate different estimates from the same study or estimates from several studies. (See {cite:ps}`McKiernan2016Open`.)
-```
+CONSULTING COLLEAGUES
+If you need to consult colleagues to help with the review, please do not share the hyperlink above. If you choose to do this, note that editors encourage diversity of gender, race and ethnicity, location, and discipline among peer reviewers. You may also invite a junior faculty member that you are mentoring if you wish to include them in the review If you choose to do this, you may share a confidential copy of the manuscript with your colleague as long as you inform them that the information is confidential and cannot be shared with others (people, systems, or language tools) and that you indicate such consultation has occurred and include that reviewer's name in your review. If you used an AI tool as a resource for your review in a way that does not violate the journal’s confidentiality policy, you must provide the name of the tool and how it was used.
 
-Another benefit of openness is that while research collaborations are essential to advancing knowledge, identifying and connecting with appropriate collaborators is not trivial. Open practices can make it easier for researchers to connect by increasing the discoverability and visibility of one's work, facilitating rapid access to novel data and software resources, and creating new opportunities to interact with and contribute to ongoing communal projects.
+YOUR RESPONSIBILITY
+Please remember that you are ultimately responsible for all of the content of this review.
 
-***Chapter Tags**: This chapter is curated for the `Turing Data Study Group` (`turing-dsg`).*
+PEER REVIEW PROCESS
+The journal uses a single-anonymized review process: peer reviewer identities are kept confidential (unless reviewers choose to reveal their names in their formal reviews); author identities are made known to reviewers. Reviewers should not contact authors. You may choose to reveal your identity to the authors on the reviewer form. This is optional. This information will be sent to the authors along with your general and specific comments to the author. Your private comments to the editors will not be shared with the authors. If you have any questions about this manuscript or the review process, please contact me.
+
+If an author has opted to have their manuscript transferred to another journal in the JAMA Network after rejection by JAMA, reviews of the manuscript may also be transferred to that journal. 
+
+Please see below for details about claiming CME for your review.
+
+After you submit your review, please review and update your reviewer profile, including your subject areas, if you have not done so recently.
+
+Please save this email so that you can easily return to reviewing the manuscript by clicking the link above. Thank you for your generous assistance in reviewing for JAMA. 
+
+Sincerely,
+
+Wolfgang C. Winkelmayer, MD, MPH, ScD (Pronouns: he/his/him)
+Associate Editor, JAMA
+
+Josie Sheehy
+Editorial Assistant II, JAMA
+Email: josie.sheehy@jamanetwork.org
+T 312-464-4217
+
+Confidentiality Note: This communication, including any attachments, is solely for the use of the addressee, may contain privileged, confidential or proprietary information, and may not be redistributed in any way without the sender's consent.
+____________________________________________________________________________
+
+CME For Peer Reviewers
+
+For each manuscript review that is of good quality and is completed and returned within the specified time frame, peer reviewers are eligible to claim CME and MOC credits. Peer reviewers may claim AMA PRA Category 1 Credits for one approved review. Only the recipient of this letter is eligible to receive the CME credit for this peer review. Reviewers who meet the criteria will be notified by email.
+
+The American Medical Association is accredited by the Accreditation Council for Continuing Medical Education to provide continuing medical education for physicians.
+
+The AMA designates this manuscript review activity for a maximum of 3 AMA PRA Category 1 Credits and 3 MOC points. Physicians should claim only the credit commensurate with the extent of their participation in the activity.
+
+Successful completion of this CME activity, which includes an evaluation component, enables the participant to earn additional MOC credits. Click here to learn more about CME credits that are automatically transmitted to the boards for the purpose of earning MOC credits/points. 
