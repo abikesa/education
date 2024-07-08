@@ -29,7 +29,7 @@ This is a temporary placeholder
 - Observed events by period (olympics), year (christmas), month (idi), week (synagogue), etc
 
 ### Sing O Muse 4
-- _We must not let daylight in upon the magic_
+- _We must not let daylight in upon the magic_. Yet Walter Isaacson seeks to [hack](https://en.wikipedia.org/wiki/The_Innovators_(book)) it
 
 ### Apollo 5, 6
 - Interpreters of the magic & its application to lifes challenges
