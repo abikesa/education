@@ -39,7 +39,7 @@ This is a temporary placeholder
 #### 3.3.2 [Myth-making](https://www.youtube.com/watch?v=TYAKHLrr51w)
 #### 3.3.3 Power-consolidation
 
-- [edu0](education/intro.md)
+- [edu0](education/intro.ipynb)
 - [edu1](education/edu1.ipynb)
 - [edu2](education/edu2.ipynb)
 - [edu3](education/edu3.ipynb)
