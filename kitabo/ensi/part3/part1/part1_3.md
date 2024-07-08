@@ -34,11 +34,11 @@ This is a temporary placeholder
 - Interpreters of the magic & its application to lifes challenges
 - Journal & note-take, finds resonance of great heritage with personal life, `represent`
 
-                1. Inputs
-                         \
-           2. Compute -> 4. Latent-Space -> 5. Decode -> 6. Represent
-                         /
-                         3. Encode
+                1. Inputs-Food
+                              \
+           2. Compute-Teeth -> 4. Latent.Space-Enzymes -> 5. Decode-Absorption -> 6. Represent-Growth
+                              /
+                              3. Encode-Gut
 
 #### 3.3.1 Happy-chances
 - Luck: having the input `data` & experiences as well as the `infrastructure` to benefit from [RLHF](https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback`) over the 10,000 hours
@@ -50,7 +50,7 @@ This is a temporary placeholder
 - Common Sense
 
 
-
+## [Digestion](https://www.gutenberg.org/cache/epub/52319/pg52319-images.html)
 - [edu0](education/intro.ipynb)
 - [edu1](education/edu1.ipynb)
 - [edu2](education/edu2.ipynb)
