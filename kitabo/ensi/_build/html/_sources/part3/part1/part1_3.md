@@ -25,7 +25,7 @@ This is a temporary placeholder
 ### Dionysus 1, 2, 3
 - Millenia, centuries, decades, [ovarian or other lottery](https://en.wikipedia.org/wiki/Outliers_(book)#Background)
 - Human, colonial, national heritage, and the [10,000 hour rule](https://www.sparknotes.com/lit/outliers/summary/)
-- Observed events by period (olympics)`, year (christmas), month (idi), week (synagogue), etc
+- Observed events by period (olympics), year (christmas), month (idi), week (synagogue), etc
 
 ### Sing O Muse 4
 - _We must not let daylight in upon the magic_. Yet Walter Isaacson seeks to [hack](https://en.wikipedia.org/wiki/The_Innovators_(book)) it
@@ -41,13 +41,15 @@ This is a temporary placeholder
                          3. Encode
 
 #### 3.3.1 Happy-chances
-- Luck
+- Luck: having the input `data` & experiences as well as the `infrastructure` to benefit from [RLHF](https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback`) over the 10,000 hours
 
 #### 3.3.2 [Myth-making](https://www.youtube.com/watch?v=TYAKHLrr51w)
 - AI or [Machine-Learning](https://www.youtube.com/watch?v=SVdTF4_QrTM)
 
 #### 3.3.3 Power-consolidation
 - Common Sense
+
+
 
 - [edu0](education/intro.ipynb)
 - [edu1](education/edu1.ipynb)
