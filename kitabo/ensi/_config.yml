@@ -37,6 +37,15 @@ html:
     The Artist is the creator of beautiful things
   comments:
     hypothesis              : true
+  # ... other settings ...
+  extra_navbar: Visit our <a href="https://github.com/the-turing-way/the-turing-way">GitHub Repository</a>
+    <div>This book is powered by <a href="https://jupyterbook.org">Jupyter Book</a></div>
+  extra_footer: |
+    The Artist is the creator of beautiful things
+  comments:
+    hypothesis: true
+  extra_css:
+    - "_static/custom.css"
 
 #######################################################################################
 # Launch button settings
