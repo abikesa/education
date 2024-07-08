@@ -70,6 +70,10 @@ This is a temporary placeholder
 - [edu16](education/edu16.ipynb)
 - [edu17](education/edu17.ipynb)
 
+> Looks like all treatments have a _large margin of error_ (`#1`): We had 2 surgeries on the breast, 10 rounds of chemotherapy, 33 rounds of radiation, exemestane, tamoxifen, letrozole, zoladex
+> Yes, _the margins of error_ are large when the regional nodes are involved at the time of initial diagnosis (`#2`)
+> One may think of local disease as having a mean & precise estimate of anatomical involvement (`#3`). Beyond local you have regional nodes and distant metastases, increasing the variance in phenotype and prognosis
+
 
                        1. Error: Outlier
                                         \
