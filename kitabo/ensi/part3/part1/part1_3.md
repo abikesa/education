@@ -33,7 +33,13 @@ This is a temporary placeholder
 
 ### Apollo 5, 6
 - Interpreters of the magic & its application to lifes challenges
-- Student through journaling and note-taking finds resonance of heritage in their personal life
+- Journal & note-take, finds resonance of great heritage with personal life, `represent``
+
+                1. Inputs
+                         \
+           2. Compute -> 4. Latent-Space -> 5. Decode -> 6. Represent
+                         /
+                         3. Encode
 
 #### 3.3.1 Happy-chances
 #### 3.3.2 [Myth-making](https://www.youtube.com/watch?v=TYAKHLrr51w)
