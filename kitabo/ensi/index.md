@@ -15,6 +15,7 @@ That's an insightful analogy! The collective unconscious as analogous to latent 
                               /
                               3. Artifacts-Rituals 
 
+(rr-open-data)=
 ### Dionysus 1, 2, 3
 ### Sing O Muse 4
 ### Apollo
