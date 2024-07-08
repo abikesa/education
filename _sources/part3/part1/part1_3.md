@@ -24,8 +24,8 @@ This is a temporary placeholder
 ```
 
 ### Dionysus 1, 2, 3
-- Millenia, centuries, decades
-- Human, colonial, national heritage
+- Millenia, centuries, decades, [ovarian or other lottery](https://en.wikipedia.org/wiki/Outliers_(book)#Background)
+- Human, colonial, national heritage, and the [10,000 hour rule](https://www.sparknotes.com/lit/outliers/summary/)
 - Observed events by period (olympics)`, year (christmas), month (idi), week (synagogue), etc
 
 ### Sing O Muse 4
@@ -63,3 +63,10 @@ This is a temporary placeholder
 - [edu15](education/edu15.ipynb)
 - [edu16](education/edu16.ipynb)
 - [edu17](education/edu17.ipynb)
+
+
+                       1. Error: Outlier
+                                        \
+           2. Compute: Bias-Variance -> 4. Latent-Space: Uncommunicable` -> 5. Decode:Hack -> 6. Represent: Success
+                                        /
+                                        3. Mean
